@@ -1,0 +1,4 @@
+discovery.type: single-node
+ELASTIC_PASSWORD: elastic
+# ES_JAVA_OPTS: -Xms512m -Xmx512m
+xpack.security.enabled: true
